@@ -1,0 +1,7 @@
+name: uTitleWelcome
+version: 0.1
+main: ro.imerkal.uTitleWelcome.Main
+author: ImErkal_
+softdepend: [PlaceholderAPI]
+commands:
+    utw:
